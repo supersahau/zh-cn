@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "陈滔"
-description              : "车辆工程"
+description              : "系统科学"
 repository               : "supersahau/supersahau.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "陈滔"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "青岛大学"
   location         : "山东 青岛"
