@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 本人现在就读于青岛大学系统科学专业。
- <a href=''><img src=""></a>。
+ <a href=''><img src=""></a>
 
 我的研究领域包括
 - 图像处理
