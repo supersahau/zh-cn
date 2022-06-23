@@ -31,7 +31,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="svg" src="/images/QDU_logo.svg" width="23pt"></a> 青岛大学 自动化学院, 山东青岛  硕士 
+- *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="svg" src="/images/QDU_logo.ico" width="23pt"></a> 青岛大学 自动化学院, 山东青岛  硕士 
 - *2017.09 - 2021.06*, <a href="https://www.ahau.edu.cn/"><img class="svg" src="/images/AHAU_logo.svg" width="20pt"></a> 安徽农业大学 工学院, 安徽合肥 本科
  
 <span class='anchor' id='-lwzl'></span>
