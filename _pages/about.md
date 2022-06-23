@@ -31,7 +31,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="svg" src="/images/QDU.svg" width="23pt"></a> 青岛大学 自动化学院, 山东青岛  硕士 
+- *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="/images/qdu.jpg" width="23pt"></a> 青岛大学 自动化学院, 山东青岛  硕士 
 - *2017.09 - 2021.06*, <a href="https://www.ahau.edu.cn/"><img class="svg" src="/images/AHAU_logo.svg" width="20pt"></a> 安徽农业大学 工学院, 安徽合肥 本科
  
 <span class='anchor' id='-lwzl'></span>
@@ -40,7 +40,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">测试</div><img src='images/.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">期刊名</div><img src='images/.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`测试1`, 测试. 题目.
@@ -64,7 +64,7 @@ redirect_from:
 -	`陈滔`,张庆国,何金波,周文竹.基于多算法融合的文本抄袭检测的特征提取算法研究[J].湖北民族大学学报(自然科学版),2022,40(01):67-72.
 [[网页]](http://dx.chinadoi.cn/10.13501/j.cnki.42-1908/n.2022.03.011)  [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E7%9A%84%E6%96%87%E6%9C%AC%E6%8A%84%E8%A2%AD%E6%A3%80%E6%B5%8B%E7%9A%84%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6.pdf)
 
--	王学梅,王凤文,`陈滔`,张庆国,蒋跃林.基于组合模型的PM_(2.5)浓度预测及其不确定性分析[J].环境工程,2020,38(08):229-235.(北大核心、CSCD)
+-	王学梅,王凤文,`陈滔`,张庆国,蒋跃林.基于组合模型的PM_(2.5)浓度预测及其不确定性分析[J].环境工程,2020,38(08):229-235.
 [[网页]](http://dx.chinadoi.cn/10.13205/j.hjgc.202008038)  [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E7%BB%84%E5%90%88%E6%A8%A1%E5%9E%8B%E7%9A%84PM2.5_%E6%B5%93%E5%BA%A6%E9%A2%84%E6%B5%8B%E5%8F%8A%E5%85%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90.pdf)
 
 
