@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "陈滔"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "青岛大学"
+  bio              : "青岛大学"  "纵横交错兮天下之局，谁能参悟兮世事如棋."
   location         : "山东 青岛"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
