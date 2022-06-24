@@ -54,7 +54,7 @@ redirect_from:
 
 ### 中文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">洛理学报2022</div><img src='images/glcm2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">洛阳理工学院学报2022</div><img src='images/glcm2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`陈滔`,张庆国,刘澳.基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现[J].洛阳理工学院学报(自然科学版),2022,32(01):53-61+67.
