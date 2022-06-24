@@ -49,9 +49,6 @@ redirect_from:
 </div>
 </div>
 
--	测试,  `Chen Tao`.题目 
-[[网页]]() [[预览]]() [[下载]]()
-
 ### 中文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">洛阳理工学院学报2022</div><img src='images/glcm2022.png' alt="sym" width="100%"></div></div>
