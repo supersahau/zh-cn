@@ -40,14 +40,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">期刊名</div><img src='images/.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
--	`测试1`, 测试. 题目.
-[[网页]](//网址) [[预览]](//链接) [[下载]](//路径)
-
-</div>
-</div>
 
 ### 中文
 ---
