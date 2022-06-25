@@ -35,10 +35,12 @@ redirect_from:
 - *2021.09 - 2022.06*, <a href="https://www.gsupl.edu.cn/"><img class="jpg" src="/images/gsupl.jpg" width="23pt"></a> [甘肃政法大学民商经济法学院](http://msy.gsupl.edu.cn/), 兰州, 肄业
 - *2017.09 - 2021.06*, <a href="https://www.ahau.edu.cn/"><img class="jpg" src="/images/ahau.jpg" width="20pt"></a> [安徽农业大学工学院](http://gxy.ahau.edu.cn/), 合肥, 本科
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-kyxm'></span>
 
 # 💬 科研项目
 - *2020.04-2021.04*, 安徽农业大学第五期“优才计划”学生发展支持项目, 主持人[[立项公告]](http://xszz.ahau.edu.cn/info/1013/1793.htm)
+
+<span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
 
