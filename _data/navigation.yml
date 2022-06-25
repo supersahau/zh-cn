@@ -4,7 +4,7 @@ main:
     url: "/zh-cn/#about-me"
 
   - title: "学历"
-    url: "/zh-cn/#-xljy"
+    url: "/educations"
 
   - title: "科研项目"
     url: "/zh-cn/#-kyxm"
@@ -15,8 +15,7 @@ main:
   - title: "荣誉奖项"
     url: "/zh-cn/#-ryjx"
 
-  - title: "学术会议"
-    url: "/zh-cn/#-xshy"
+  - title: "conferences"
 
   - title: "工作实习"
     url: "/zh-cn/#-gzsx"
