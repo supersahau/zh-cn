@@ -30,7 +30,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 学历教育
 - *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="/images/qdu.jpg" width="23pt"></a> [青岛大学自动化学院](http://zdh.qdu.edu.cn/), 青岛, 硕士 
 - *2021.09 - 2022.06*, <a href="https://www.gsupl.edu.cn/"><img class="jpg" src="/images/gsupl.jpg" width="23pt"></a> [甘肃政法大学民商经济法学院](http://msy.gsupl.edu.cn/), 兰州, 肄业
 - *2017.09 - 2021.06*, <a href="https://www.ahau.edu.cn/"><img class="jpg" src="/images/ahau.jpg" width="20pt"></a> [安徽农业大学工学院](http://gxy.ahau.edu.cn/), 合肥, 本科
@@ -42,11 +42,11 @@ redirect_from:
 
 # 📝 论文专利
 
-*[注释]: ### 英文 英文文献编写处
+*[注释]: ### 英文论文 英文文献编写处
 *[注释]: ---
 
 
-### 中文
+### 中文论文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">洛阳理工学院学报2022</div><img src='images/glcm2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -71,11 +71,11 @@ redirect_from:
 [[网页]](http://dx.chinadoi.cn/10.13205/j.hjgc.202008038)  [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E7%BB%84%E5%90%88%E6%A8%A1%E5%9E%8B%E7%9A%84PM2.5_%E6%B5%93%E5%BA%A6%E9%A2%84%E6%B5%8B%E5%8F%8A%E5%85%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90.pdf)
 
 
-### 专利
+### 专利著作
 ---
 - 测试, `测试`. 专利名. [[网页]]()
 
-### 软著
+### 软著著作
 ---
 - `陈滔`,伍尧尧. 基于Android的股票实时分析软件. 登记号：2021SR0018438
 - `陈滔`,伍尧尧. 基于自然语言处理的微信推文抄袭检测系统. 登记号：2021SR0018436
