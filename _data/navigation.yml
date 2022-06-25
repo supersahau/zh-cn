@@ -5,7 +5,10 @@ main:
 
   - title: "学历"
     url: "/zh-cn/#-xl"
-
+	
+  - title: "科研项目"
+    url: "/zh-cn/#-kyxm"
+	
   - title: "论文专利"
     url: "/zh-cn/#-lwzl"
 
