@@ -15,7 +15,8 @@ main:
   - title: "荣誉奖项"
     url: "/zh-cn/#-ryjx"
 
-  - title: "conferences"
+  - title: "学术会议"
+    url： "/-conferences"
 
   - title: "工作实习"
     url: "/zh-cn/#-gzsx"
