@@ -28,7 +28,7 @@ redirect_from:
 本人整理的《863概率论与数理统计》考研复习资料 [[下载]](/pdf/概率论与数理统计.pdf)
 
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-xljy'></span>
 
 # 🎓 学历教育
 - *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="/images/qdu.jpg" width="23pt"></a> [青岛大学自动化学院](http://zdh.qdu.edu.cn/), 青岛, 硕士 
