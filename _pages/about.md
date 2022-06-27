@@ -31,9 +31,9 @@ redirect_from:
 <span class='anchor' id='-xljy'></span>
 
 # 🎓 学历教育
-- *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="/images/qdu.jpg" width="23pt"></a> [青岛大学自动化学院](http://zdh.qdu.edu.cn/), 青岛, 硕士 
-- *2021.09 - 2022.06*, <a href="https://www.gsupl.edu.cn/"><img class="jpg" src="/images/gsupl.jpg" width="23pt"></a> [甘肃政法大学民商经济法学院](http://msy.gsupl.edu.cn/), 兰州, 肄业
-- *2017.09 - 2021.06*, <a href="https://www.ahau.edu.cn/"><img class="jpg" src="/images/ahau.jpg" width="20pt"></a> [安徽农业大学工学院](http://gxy.ahau.edu.cn/), 合肥, 本科
+- *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="/images/qdu.jpg" width="23pt"></a> [青岛大学自动化学院](http://zdh.qdu.edu.cn/), 青岛, 系统科学, 硕士 
+- *2021.09 - 2022.06*, <a href="https://www.gsupl.edu.cn/"><img class="jpg" src="/images/gsupl.jpg" width="23pt"></a> [甘肃政法大学民商经济法学院](http://msy.gsupl.edu.cn/), 兰州, 法学, 肄业
+- *2017.09 - 2021.06*, <a href="https://www.ahau.edu.cn/"><img class="jpg" src="/images/ahau.jpg" width="20pt"></a> [安徽农业大学工学院](http://gxy.ahau.edu.cn/), 合肥, 车辆工程, 本科
  
 <span class='anchor' id='-kyxm'></span>
 
