@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 本人现就读于青岛大学系统科学专业。
- <a href=''><img src=""></a>
+ <a href='https://scholar.google.com/citations?hl=en&user=qXqZ9NUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 我的研究领域包括
 - 图像处理
