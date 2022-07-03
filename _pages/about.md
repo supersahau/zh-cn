@@ -38,7 +38,7 @@ redirect_from:
 <span class='anchor' id='-kyxm'></span>
 
 # 💬️ 科研项目
-- *2020.04-2021.04*, 安徽农业大学第五期“优才计划”学生发展支持项目, 主持人[[立项公告]](http://xszz.ahau.edu.cn/info/1013/1793.htm)
+- *2020.04-2021.04*, 安徽农业大学第五期“优才计划”学生发展支持项目, 主持人[[通知]](http://xszz.ahau.edu.cn/info/1013/1793.htm)  [[名单]](/Excel/安徽农业大学2020年第五期“优才计划”项目拟立项名单.xls)
 
 <span class='anchor' id='-lwzl'></span>
 
