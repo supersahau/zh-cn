@@ -105,4 +105,6 @@ redirect_from:
 # 💻 工作实习
 - *2021.05 - 2021.08*, 合肥小路数据信息技术有限公司, 合肥
 
+---
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/glcm2022.png' alt="sym" width="100%"></div></div>
 *[注释]: 🏭 新栏目图标
