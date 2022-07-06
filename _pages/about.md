@@ -15,9 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <font face="宋体">
-
 <div class='paper-box-text' markdown="1">
-
+<font face="Time New Roman">
+<div class='paper-box-text' markdown="1">
 
 <span class='anchor' id='about-me'></span>
 
@@ -114,5 +114,7 @@ redirect_from:
 
 *[注释]: 🏭 新栏目图标
   
+</div>
+</font>
 </div>
 </font>
