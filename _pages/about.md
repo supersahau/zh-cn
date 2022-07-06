@@ -14,7 +14,7 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-<font face="华光楷体_CNKI" size="小四">
+<font face="华光楷体_CNKI" size=4>
 <div class='paper-box-text' markdown="1">
 
 <span class='anchor' id='about-me'></span>
