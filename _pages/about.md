@@ -60,9 +60,6 @@ redirect_from:
 </div>
 </div>
 
--	陈祎琼,刘澳,范国华,毕家泽,***陈滔***.基于深度森林的CT图像结直肠息肉检测研究[J].*洛阳理工学院学报(自然科学版)*,2022,32(01):68-74.
-[[网页]](http://dx.chinadoi.cn/10.3969/j.issn.1674-5043.2022.01.012) [[维普收录]](/pdf/文献收录证明3.pdf) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E6%A3%AE%E6%9E%97%E7%9A%84CT%E5%9B%BE%E5%83%8F%E7%BB%93%E7%9B%B4%E8%82%A0%E6%81%AF%E8%82%89%E6%A3%80%E6%B5%8B%E7%A0%94%E7%A9%B6.pdf)
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">湖北民族大学学报2022</div><img src='images/plagiarism2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -70,6 +67,9 @@ redirect_from:
 [[网页]](https://hbmdzk.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=cd2cedeb-4a16-4c22-939b-b47e47ce7fcc) [[维普收录]](/pdf/文献收录证明1.pdf) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E7%9A%84%E6%96%87%E6%9C%AC%E6%8A%84%E8%A2%AD%E6%A3%80%E6%B5%8B%E7%9A%84%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6.pdf)
 </div>
 </div>
+
+-	陈祎琼,刘澳,范国华,毕家泽,***陈滔***.基于深度森林的CT图像结直肠息肉检测研究[J].*洛阳理工学院学报(自然科学版)*,2022,32(01):68-74.
+[[网页]](http://dx.chinadoi.cn/10.3969/j.issn.1674-5043.2022.01.012) [[维普收录]](/pdf/文献收录证明3.pdf) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E6%A3%AE%E6%9E%97%E7%9A%84CT%E5%9B%BE%E5%83%8F%E7%BB%93%E7%9B%B4%E8%82%A0%E6%81%AF%E8%82%89%E6%A3%80%E6%B5%8B%E7%A0%94%E7%A9%B6.pdf)
 
 -	王学梅,王凤文,***陈滔***,张庆国,蒋跃林.基于组合模型的PM_(2.5)浓度预测及其不确定性分析[J].*环境工程*,2020,38(08):229-235.(北大核心、CSCD)
 [[网页]](http://hjgc.ic-mag.com/cn/article/doi/10.13205/j.hjgc.202008038) [[维普收录]](/pdf/文献收录证明4.pdf) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E7%BB%84%E5%90%88%E6%A8%A1%E5%9E%8B%E7%9A%84PM2.5_%E6%B5%93%E5%BA%A6%E9%A2%84%E6%B5%8B%E5%8F%8A%E5%85%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90.pdf)
