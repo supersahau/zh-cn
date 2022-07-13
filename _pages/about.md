@@ -52,7 +52,7 @@ redirect_from:
 
 ### 中文论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">洛阳理工学院学报2022</div><img src='/images/glcm2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">洛阳理工学院学报2022</div><img src='images/glcm2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	***陈滔***,张庆国,刘澳.基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现[J].*洛阳理工学院学报(自然科学版)*,2022,32(01):53-61+67.
@@ -60,7 +60,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">湖北民族大学学报2022</div><img src='/images/plagiarism2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">湖北民族大学学报2022</div><img src='images/plagiarism2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	***陈滔***,张庆国,何金波,周文竹.基于多算法融合的文本抄袭检测的特征提取算法研究[J].*湖北民族大学学报(自然科学版)*,2022,40(01):67-72.
@@ -108,7 +108,7 @@ redirect_from:
 - *2021.05 - 2021.08*, 合肥小路数据信息技术有限公司, 合肥
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/目标.jpg' alt="sym" width="100%"></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/目标.jpg' alt="sym" width="100%"></div></div></div>
 
 *[注释]: 🏭 新栏目图标
   
