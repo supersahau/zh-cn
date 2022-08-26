@@ -23,12 +23,12 @@ redirect_from:
  <a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
 
 我的研究领域包括
-- 宽度学习系统
-- 深度学习
-- 气象统计分析
-- 自然语言处理  
+- *宽度学习系统*
+- *深度学习*
+- *气象统计分析*
+- *自然语言处理* 
 
-本人整理的《863概率论与数理统计》考研复习资料(有些许错误) [[下载]](/pdf/概率论与数理统计.pdf)
+本人整理的《863概率论与数理统计》考研复习资料(***有些许错误***) [[下载]](/pdf/概率论与数理统计.pdf)
 
 
 <span class='anchor' id='-xljy'></span>
