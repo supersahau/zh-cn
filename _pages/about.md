@@ -45,7 +45,7 @@ redirect_from:
 
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文著作
+# 📝 学术著作
 
 *[注释]: ### 英文论文 英文文献编写处
 *[注释]: ---
