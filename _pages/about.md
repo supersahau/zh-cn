@@ -35,8 +35,9 @@ redirect_from:
 
 # 🎓 学历学位
 *[注释]: - *2025.09 - 2028.09*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="images/qdu.jpg" width="23pt"></a> [test](http://zdh.qdu.edu.cn/), test, 博士, 
-- *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="images/qdu.jpg" width="23pt"></a> [青岛大学自动化学院](http://zdh.qdu.edu.cn/), 系统科学, 硕士, 理学硕士
 - *2017.09 - 2021.06*, <a href="https://www.ahau.edu.cn/"><img class="jpg" src="images/ahau.jpg" width="23pt"></a> [安徽农业大学工学院](http://gxy.ahau.edu.cn/), 车辆工程, 本科, 工学学士
+- *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="images/qdu.jpg" width="23pt"></a> [青岛大学自动化学院](http://zdh.qdu.edu.cn/), 系统科学, 硕士, 理学硕士
+
  
 <span class='anchor' id='-kyxm'></span>
 
@@ -105,9 +106,9 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2021.05 - 2021.08*, 合肥小路数据信息技术有限公司, 合肥, 云计算工程师
-- *2022.09 - 2025.06*, 青岛大学自动化学院系统科学, 青岛, 学习委员
-- *2022.09 - 未知*, 青岛大学资产与实验管理处资产管理科, 青岛, 学生助管
+- *2021.05 - 2021.08*, 合肥小路数据信息技术有限公司, 合肥, **云计算工程师**
+- *2022.09 - 2025.06*, 青岛大学自动化学院系统科学, 青岛, **学习委员**
+- *2022.09 - 未知*, 青岛大学资产与实验管理处资产管理科, 青岛, **学生助管**
 
 ---
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/目标.jpg' alt="sym" width="100%"></div></div></div>
