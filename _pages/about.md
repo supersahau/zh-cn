@@ -89,7 +89,7 @@ redirect_from:
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
+# 🏛️ 论坛与会议
 - *时间*, 会议名称, 地点,
 
 <span class='anchor' id='-gzsx'></span>
