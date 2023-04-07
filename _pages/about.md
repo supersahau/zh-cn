@@ -83,14 +83,14 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
+# 🏭 荣誉奖项
 - *2019年度* 获得 第九届全国大学生市场调查与分析大赛**三等奖**及安徽赛区**一等奖**、安徽省大学生统计建模大赛研究生组**三等奖**等
 - *2020年度* 获得 第十八届“SuperMap"杯GIS大赛**二等奖**、第十届全国大学生市场调查与分析大赛**三等奖**及安徽赛区**一等奖**、安徽省计算机博弈大赛**一等奖**等
 - *2023年度* 获得 2022年山东省研究生“AI+"创新实践大赛**二等奖**等
   
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 论坛与会议
+# 📚 论坛与会议
 - *时间*, 会议名称, 地点,
 
 <span class='anchor' id='-gzsx'></span>
@@ -102,7 +102,7 @@ redirect_from:
 ---
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/目标.jpg' alt="sym" width="100%"></div></div></div>
 
-*[注释]: 🏭 新栏目图标
+*[注释]: 🏭 📚 🔥 新栏目图标
   
 </div>
 </font>
