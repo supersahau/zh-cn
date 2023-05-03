@@ -34,9 +34,9 @@ redirect_from:
 <span class='anchor' id='-xljy'></span>
 
 # 🎓 学历学位
-*[注释]: - *2025.09 - 2028.09*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="images/qdu.jpg" width="23pt"></a> [test](http://zdh.qdu.edu.cn/), test, 博士, 
-- *2017.09 - 2021.06*, <a href="https://www.ahau.edu.cn/"><img class="jpg" src="images/ahau.jpg" width="23pt"></a> [安徽农业大学工学院](http://gxy.ahau.edu.cn/), 车辆工程, 本科, 工学学士
-- *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="images/qdu.jpg" width="23pt"></a> [青岛大学自动化学院](http://zdh.qdu.edu.cn/), 系统科学, 硕士, 理学硕士
+*[注释]: - *2025.09 - 2028.09*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="/images/qdu.jpg" width="23pt"></a> [test](http://zdh.qdu.edu.cn/), test, 博士, 
+- *2017.09 - 2021.06*, <a href="https://www.ahau.edu.cn/"><img class="jpg" src="/images/ahau.jpg" width="23pt"></a> [安徽农业大学工学院](http://gxy.ahau.edu.cn/), 车辆工程, 本科, 工学学士
+- *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="/images/qdu.jpg" width="23pt"></a> [青岛大学自动化学院](http://zdh.qdu.edu.cn/), 系统科学, 硕士, 理学硕士
 
  
 <span class='anchor' id='-kyxm'></span>
@@ -54,7 +54,7 @@ redirect_from:
 
 ### 中文论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">遵义师范学院学报2023</div><img src='images/IPSO2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">遵义师范学院学报2023</div><img src='/images/IPSO2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**陈滔**.基于改进粒子群优化的K-means聚类的焊接缺陷图像识别[J].*遵义师范学院学报*,2023,25(02):85-88.
@@ -62,7 +62,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">洛阳理工学院学报2022</div><img src='images/glcm2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">洛阳理工学院学报2022</div><img src='/images/glcm2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**陈滔**,张庆国,刘澳.基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现[J].*洛阳理工学院学报(自然科学版)*,2022,32(01):53-61+67.
@@ -104,7 +104,7 @@ redirect_from:
 - *2022.11 - 未知*, 《武汉大学学报工学版》编辑部, **实习编辑**
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/目标.jpg' alt="sym" width="100%"></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/目标.jpg' alt="sym" width="100%"></div></div></div>
 
 *[注释]: 🏭  🔥  新栏目图标
   
