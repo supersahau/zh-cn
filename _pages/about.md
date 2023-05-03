@@ -104,7 +104,6 @@ redirect_from:
 - *2022.11 - 未知*, 《武汉大学学报工学版》编辑部, **实习编辑**
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/目标.jpg' alt="sym" width="100%"></div></div></div>
 
 *[注释]: 🏭  🔥  新栏目图标
   
