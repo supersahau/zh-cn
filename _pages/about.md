@@ -38,6 +38,10 @@ redirect_from:
 - *2017.09 - 2021.06*, <a href="https://www.ahau.edu.cn/"><img class="jpg" src="/images/ahau.jpg" width="23pt"></a> [安徽农业大学工学院](http://gxy.ahau.edu.cn/), 车辆工程, 本科, 工学学士
 - *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="/images/qdu.jpg" width="23pt"></a> [青岛大学自动化学院](http://zdh.qdu.edu.cn/), 系统科学, 硕士, 理学硕士
 
+<span class='anchor' id='-news'></span>
+
+# 🔥 最新消息
+- *2023.05*: 我们的论文“基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现”入选中国知网《学术精要数据库》高下载论文 [[证书]](/images/入选证书.png)
  
 <span class='anchor' id='-kyxm'></span>
 
@@ -105,7 +109,7 @@ redirect_from:
 
 ---
 
-*[注释]: 🏭  🔥  新栏目图标
+*[注释]: 🏭   新栏目图标
   
 </div>
 </font>
