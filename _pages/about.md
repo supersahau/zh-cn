@@ -42,6 +42,7 @@ redirect_from:
 
 # 🔥 最新消息
 - *2023.05*： 🔥🔥我们的论文“基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现”入选中国知网《学术精要数据库》高下载论文 [[链接]](https://xsjy.cnki.net/Ajax/Certificate?filename=LYGY202201010)或[[电子证书]](/images/入选证书.png)。
+- *2023.04*： 🔥🔥团队荣获2022年山东省研究生“AI+”创新实践大赛二等奖 [[决赛通知]](https://www.qlu.edu.cn/2023/0329/c7989a220592/page.htm)。
  
 <span class='anchor' id='-kyxm'></span>
 
