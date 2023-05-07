@@ -5,6 +5,9 @@ main:
 
   - title: "学历学位"
     url: "/zh-cn/#-xljy"
+  
+    - title: "最新消息"
+    url: "/zh-cn/#-news"
 
   - title: "科研项目"
     url: "/zh-cn/#-kyxm"
