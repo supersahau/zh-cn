@@ -34,8 +34,8 @@ redirect_from:
 
 # 🎓 学历学位
 *[注释]: - *2025.09 - 2028.09*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="/images/qdu.jpg" width="23pt"></a> [test](http://zdh.qdu.edu.cn/), test, 博士, 
-- *2017.09 - 2021.06*, <a href="https://www.ahau.edu.cn/"><img class="jpg" src="/images/ahau.jpg" width="23pt"></a> [安徽农业大学工学院](http://gxy.ahau.edu.cn/), 车辆工程, 本科, 工学学士
 - *2022.09 - 2025.06*, <a href="http://www.qdu.edu.cn/"><img class="jpg" src="/images/qdu.jpg" width="23pt"></a> [青岛大学自动化学院](http://zdh.qdu.edu.cn/), 系统科学, 硕士, 理学硕士
+- *2017.09 - 2021.06*, <a href="https://www.ahau.edu.cn/"><img class="jpg" src="/images/ahau.jpg" width="23pt"></a> [安徽农业大学工学院](http://gxy.ahau.edu.cn/), 车辆工程, 本科, 工学学士
 
 <span class='anchor' id='-news'></span>
 
@@ -47,8 +47,8 @@ redirect_from:
 <span class='anchor' id='-kyxm'></span>
 
 # 📚 科研项目
-- *2022.12-2023.12*, 山东省青少年教育科学规划项目大学生学术课题, 23BSH334, 改进宽度学习系统在时序数据中的应用, 参与, [[通知]](http://www.sdgov.org.cn/newsview-2331.html)或[[名单]](/Excel/山东省青少年教育科学规划项目大学生学术课题立项名单.xls). 
-- *2020.04-2021.04*, 安徽农业大学第五期“优才计划”学生发展支持项目, XSZZ202006, 新能源汽车销量、股票市场波动及民意调查分析, 主持, [[通知]](http://xszz.ahau.edu.cn/info/1013/1793.htm)或[[名单]](/Excel/安徽农业大学2020年第五期“优才计划”项目拟立项名单.xls).
+- *2022.12 - 2023.12*, 山东省青少年教育科学规划项目大学生学术课题, 23BSH334, 改进宽度学习系统在时序数据中的应用, 参与, [[通知]](http://www.sdgov.org.cn/newsview-2331.html)或[[名单]](/Excel/山东省青少年教育科学规划项目大学生学术课题立项名单.xls). 
+- *2020.04 - 2021.04*, 安徽农业大学第五期“优才计划”学生发展支持项目, XSZZ202006, 新能源汽车销量、股票市场波动及民意调查分析, 主持, [[通知]](http://xszz.ahau.edu.cn/info/1013/1793.htm)或[[名单]](/Excel/安徽农业大学2020年第五期“优才计划”项目拟立项名单.xls).
 
 <span class='anchor' id='-lwzl'></span>
 
