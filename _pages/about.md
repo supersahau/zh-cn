@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本人<a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>现于青岛大学自动化学院系统科学专业攻读硕士学位，师从[[王立杰]](http://ics.qdu.edu.cn/info/1150/1264.htm)老师。
+本人现于青岛大学自动化学院系统科学专业攻读硕士学位<a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括
 - *宽度学习系统*
@@ -27,7 +27,7 @@ redirect_from:
 - *统计分析与预测*
 - *自然语言处理* 
 
-本人整理的《863概率论与数理统计》考研复习资料(*有些许错误*) [[下载]](/pdf/概率论与数理统计.pdf)
+本人帮朋友整理的《863概率论与数理统计》考研复习资料(*有些许错误*) [[下载]](/pdf/概率论与数理统计.pdf)
 
 
 <span class='anchor' id='-xljy'></span>
