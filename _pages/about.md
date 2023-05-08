@@ -19,9 +19,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本人现于青岛大学自动化学院系统科学专业攻读硕士学位<a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+本人现于青岛大学自动化学院系统科学专业攻读硕士学位<a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>.
 
-我的研究领域包括
+我的研究兴趣包括
 - *宽度学习系统*
 - *深度学习*
 - *统计分析与预测*
@@ -40,13 +40,15 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 最新消息
-- *2023.05*： 🔥🔥我们的论文“基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现”入选中国知网《学术精要数据库》高下载论文 [[链接]](https://xsjy.cnki.net/Ajax/Certificate?filename=LYGY202201010)或[[电子证书]](/images/入选证书.png)。
-- *2023.04*： 🔥🔥团队荣获2022年山东省研究生“AI+”创新实践大赛二等奖 [[决赛通知]](https://www.qlu.edu.cn/2023/0329/c7989a220592/page.htm)。
- 
+- *2023.05*： 🔥🔥我们的论文“基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现”入选中国知网《学术精要数据库》高下载论文 [[链接]](https://xsjy.cnki.net/Ajax/Certificate?filename=LYGY202201010)或[[电子证书]](/images/入选证书.png).
+- *2023.04*： 🔥🔥本人（队长）所在团队荣获2022年山东省研究生“AI+”创新实践大赛二等奖 [[决赛通知]](https://www.qlu.edu.cn/2023/0329/c7989a220592/page.htm).
+- *2023.03*： 🔥🔥本人（排名第2）参与的项目“改进宽度学习系统在时序数据中的应用”获批山东省青少年教育科学规划项目大学生学术课题立项 [[通知]](http://www.sdgov.org.cn/newsview-2331.html).
+  
 <span class='anchor' id='-kyxm'></span>
 
 # 📚 科研项目
-- *2020.04-2021.04*, 安徽农业大学第五期“优才计划”学生发展支持项目, 主持人[[通知]](http://xszz.ahau.edu.cn/info/1013/1793.htm)或[[名单]](/Excel/安徽农业大学2020年第五期“优才计划”项目拟立项名单.xls)
+-*2022.12-2023.12*, 山东省青少年教育科学规划项目大学生学术课题, 23BSH334, 改进宽度学习系统在时序数据中的应用, 参与, [[通知]](http://www.sdgov.org.cn/newsview-2331.html)或[[名单]](/Excel/山东省青少年教育科学规划项目大学生学术课题立项名单.xls). 
+-*2020.04-2021.04*, 安徽农业大学第五期“优才计划”学生发展支持项目, XSZZ202006, 新能源汽车销量、股票市场波动及民意调查分析, 主持, [[通知]](http://xszz.ahau.edu.cn/info/1013/1793.htm)或[[名单]](/Excel/安徽农业大学2020年第五期“优才计划”项目拟立项名单.xls).
 
 <span class='anchor' id='-lwzl'></span>
 
@@ -75,7 +77,7 @@ redirect_from:
 </div>
 
 -	**陈滔**,张庆国,何金波,周文竹.基于多算法融合的文本抄袭检测的特征提取算法研究[J].*湖北民族大学学报(自然科学版)*,2022,40(01):67-72.
-[[网页]](https://hbmdzk.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=cd2cedeb-4a16-4c22-939b-b47e47ce7fcc) [[维普收录]](/pdf/文献收录证明1.pdf) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E7%9A%84%E6%96%87%E6%9C%AC%E6%8A%84%E8%A2%AD%E6%A3%80%E6%B5%8B%E7%9A%84%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6.pdf)
+[[网页]](https://hbmdzk.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=94c8b466-eb49-4042-965a-777f33b4525a) [[维普收录]](/pdf/文献收录证明1.pdf) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E7%9A%84%E6%96%87%E6%9C%AC%E6%8A%84%E8%A2%AD%E6%A3%80%E6%B5%8B%E7%9A%84%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6.pdf)
 
 
 -	陈祎琼,刘澳,范国华,毕家泽,**陈滔**.基于深度森林的CT图像结直肠息肉检测研究[J].*洛阳理工学院学报(自然科学版)*,2022,32(01):68-74.
