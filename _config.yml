@@ -9,7 +9,7 @@
 title                    : "陈滔"
 description              : "青岛大学-自动化学院-系统科学"
 repository               : "supersahau/supersahau.github.io"
-google_scholar_stats_use_cdn : "pj7fXtgAAAAJ"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "陈滔"
+  name             : "陈滔"<a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
   avatar           : "/images/640.png"
   bio              : "纵横交错兮天下之局，谁能参悟兮世事如棋."
   location         : "山东 青岛"
@@ -30,7 +30,7 @@ author:
   email            : "chen.t1998@foxmail.com"
   googlescholar    : "https://scholar.google.com/citations?user=pj7fXtgAAAAJ"
   researchgate     : 
-  uri              : http://wpa.qq.com/msgrd?v=3&uin=1994195619&site=qq&menu=yes
+  uri              : "http://wpa.qq.com/msgrd?v=3&uin=1994195619&site=qq&menu=yes"
   bitbucket        :
   codepen          :
   dribbble         :
