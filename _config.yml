@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "陈滔"
 description              : "青岛大学-自动化学院-系统科学"
-repository               : "<a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>"
-google_scholar_stats_use_cdn : false
+repository               : "supersahau/supersahau.github.io"
+google_scholar_stats_use_cdn : "pj7fXtgAAAAJ"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
