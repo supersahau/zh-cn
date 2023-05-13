@@ -40,7 +40,7 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 最新消息
-- *2023.05*: 🔥🔥我们的论文“基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现”入选中国知网《学术精要数据库》高下载论文 [[链接]](https://xsjy.cnki.net/Ajax/Certificate?filename=LYGY202201010)或[[电子证书]](/images/入选证书.png).
+- *2023.05*: 🔥🔥我们的论文“基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现”入选中国知网《学术精要数据库》高下载论文和高被引论文 [[链接]](https://xsjy.cnki.net/Ajax/Certificate?filename=LYGY202201010)或[[电子证书]](/images/入选证书.png).
 - *2023.04*: 🔥🔥本人（队长）所在团队荣获2022年山东省研究生“AI+”创新实践大赛二等奖 [[决赛通知]](https://www.qlu.edu.cn/2023/0329/c7989a220592/page.htm).
 - *2023.03*: 🔥🔥本人（排名第2）参与的项目“改进宽度学习系统在时序数据中的应用”获批山东省青少年教育科学规划项目大学生学术课题立项 [[通知]](http://www.sdgov.org.cn/newsview-2331.html).
   
@@ -72,7 +72,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	**陈滔**,张庆国,刘澳.基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现[J].*洛阳理工学院学报(自然科学版)*,2022,32(01):53-61+67.
-[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=LYGY202201010) [[维普收录]](/pdf/文献收录证明2.pdf) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E7%81%B0%E5%BA%A6%E5%85%B1%E7%94%9F%E7%9F%A9%E9%98%B5%E7%9A%84%E5%9B%BE%E5%BD%A2%E7%BA%B9%E7%90%86%E6%A3%80%E6%B5%8B%E5%8F%8A%E7%84%8A%E6%8E%A5%E7%BC%BA%E9%99%B7%E7%9A%84SVM%E5%88%86%E7%B1%BB%E5%AE%9E%E7%8E%B0.pdf)
+[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=LYGY202201010) [[维普收录]](/pdf/文献收录证明2.pdf) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E7%81%B0%E5%BA%A6%E5%85%B1%E7%94%9F%E7%9F%A9%E9%98%B5%E7%9A%84%E5%9B%BE%E5%BD%A2%E7%BA%B9%E7%90%86%E6%A3%80%E6%B5%8B%E5%8F%8A%E7%84%8A%E6%8E%A5%E7%BC%BA%E9%99%B7%E7%9A%84SVM%E5%88%86%E7%B1%BB%E5%AE%9E%E7%8E%B0.pdf) [[🔥高被引、高下载论文]](/images/入选证书.png)
 </div>
 </div>
 
