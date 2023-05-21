@@ -64,7 +64,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	**陈滔**.基于改进粒子群优化的K-means聚类的焊接缺陷图像识别[J].*遵义师范学院学报*,2023,25(02):85-88.
-[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50kh16NZV3SxFpUR_bKEjM1ob5Gr6DPEXiPJ6puhJ6wj7khRK8SMYNvU&uniplatform=NZKPT) [[下载]](/pdf/基于改进粒子群优化的K-means聚类的焊接缺陷图像识别.pdf)
+[[网页]](http://qikan.cqvip.com/Qikan/Article/Detail?id=7109509135) [[下载]](/pdf/基于改进粒子群优化的K-means聚类的焊接缺陷图像识别.pdf)
 </div>
 </div>
 
