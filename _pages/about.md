@@ -40,7 +40,7 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 最新消息
-- *2023.05*: 🔥🔥我们的论文“基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现”入选中国知网《学术精要数据库》高下载论文和高被引论文 [[链接]](https://xsjy.cnki.net/Ajax/Certificate?filename=LYGY202201010)或[[电子证书]](/images/入选证书.png).
+- *2023.05*: 🔥🔥我们的论文“基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现”入选中国知网《学术精要数据库》高下载论文和高被引论文 [[链接]](https://xsjy.cnki.net/UserIndex/Certificate?filename=LYGY202201010)或[[电子证书]](/images/入选证书.png).
 - *2023.04*: 🔥🔥本人（队长）所在团队荣获2022年山东省研究生“AI+”创新实践大赛二等奖 [[决赛通知]](https://www.qlu.edu.cn/2023/0329/c7989a220592/page.htm).
 - *2023.03*: 🔥🔥本人（排名第2）参与的项目“改进宽度学习系统在时序数据中的应用”获批山东省青少年教育科学规划项目大学生学术课题立项 [[通知]](http://www.sdgov.org.cn/newsview-2331.html).
   
