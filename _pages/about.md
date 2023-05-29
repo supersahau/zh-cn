@@ -101,7 +101,7 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 💬️ 论坛会议
-- *时间*, 会议名称, 地点,
+- *2023.05.31*, 青岛大学“求实创新, 研学笃行”2023年度研究生学术沙龙, 青岛. [[通知]](https://mp.weixin.qq.com/s/2BwTkVuyf7jJvvB_0ZTmGg)
 
 <span class='anchor' id='-gzsx'></span>
 
