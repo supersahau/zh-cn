@@ -101,7 +101,7 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 💬️ 论坛会议
-- *2023.05*, 青岛大学“求实创新, 研学笃行”2023年度研究生学术沙龙, 青岛. [[通知]](https://mp.weixin.qq.com/s/WgkUIHAt3qgkomAyohKjaw)
+- *2023.05*, 青岛大学“求实创新, 研学笃行”2023年度研究生学术沙龙, 青岛. [[通知]](https://mp.weixin.qq.com/s/iDcZ8NttA1ifqcynNizpSg)
 
 <span class='anchor' id='-gzsx'></span>
 
