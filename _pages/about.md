@@ -62,7 +62,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	**陈滔**,王立杰,刘洋,徐丽莉,于海生.带有Dropout结构的贝叶斯近似宽度学习系统[J].*控制理论与应用*,2024,41(x):1-10.
--	[[网页]](https://link.cnki.net/urlid/44.1240.TP.20240229.1727.010) [[下载]](/pdf/带有Dropout结构的贝叶斯近似宽度学习系统.pdf)
+[[网页]](https://link.cnki.net/urlid/44.1240.TP.20240229.1727.010) [[下载]](/pdf/带有Dropout结构的贝叶斯近似宽度学习系统.pdf)
 
 </div>
 </div>
