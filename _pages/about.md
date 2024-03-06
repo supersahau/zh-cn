@@ -40,14 +40,12 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 最新消息
-- *2023.05*: 🔥🔥我们的论文“基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现”入选中国知网《学术精要数据库》高下载论文和高被引论文 [[链接]](https://xsjy.cnki.net/UserIndex/Certificate?filename=LYGY202201010)或[[电子证书]](/images/入选证书.png).
+- *2024.04*: 🔥🔥我们的论文“带有Dropout结构的贝叶斯近似宽度学习系统”网络首发 [[链接]](https://link.cnki.net/urlid/44.1240.TP.20240229.1727.010).
 - *2023.04*: 🔥🔥本人（队长）所在团队荣获2022年山东省研究生“AI+”创新实践大赛二等奖 [[决赛通知]](https://www.qlu.edu.cn/2023/0329/c7989a220592/page.htm).
-- *2023.03*: 🔥🔥本人（排名第2）参与的项目“改进宽度学习系统在时序数据中的应用”获批山东省青少年教育科学规划项目大学生学术课题立项 [[通知]](http://www.sdgov.org.cn/newsview-2331.html).
-  
+
 <span class='anchor' id='-kyxm'></span>
 
 # 📚 科研项目
-- *2022.12 - 2023.12*, 山东省青少年教育科学规划项目大学生学术课题, 23BSH334, 改进宽度学习系统在时序数据中的应用, 参与, [[通知]](http://www.sdgov.org.cn/newsview-2331.html)或[[名单]](/Excel/山东省青少年教育科学规划项目大学生学术课题立项名单.xls). 
 - *2020.04 - 2021.04*, 安徽农业大学第五期“优才计划”学生发展支持项目, XSZZ202006, 新能源汽车销量、股票市场波动及民意调查分析, 主持, [[通知]](http://xszz.ahau.edu.cn/info/1013/1793.htm)或[[名单]](/Excel/安徽农业大学2020年第五期“优才计划”项目拟立项名单.xls).
 
 <span class='anchor' id='-lwzl'></span>
@@ -60,21 +58,21 @@ redirect_from:
 
 ### 中文论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">遵义师范学院学报2023</div><img src='/images/IPSO2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">控制理论与应用2024</div><img src='/images/dropout-bls2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+-	**陈滔**,王立杰,刘洋,徐丽莉,于海生.带有Dropout结构的贝叶斯近似宽度学习系统[J].*控制理论与应用*,2024,41(x):1-10.
+-	[[网页]](https://link.cnki.net/urlid/44.1240.TP.20240229.1727.010) [[下载]](/pdf/带有Dropout结构的贝叶斯近似宽度学习系统.pdf)
+
+</div>
+</div>
 
 -	**陈滔**.基于改进粒子群优化的K-means聚类的焊接缺陷图像识别[J].*遵义师范学院学报*,2023,25(02):85-88.
 [[网页]](http://qikan.cqvip.com/Qikan/Article/Detail?id=7109509135) [[下载]](/pdf/基于改进粒子群优化的K-means聚类的焊接缺陷图像识别.pdf)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">洛阳理工学院学报2022</div><img src='/images/glcm2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 -	**陈滔**,张庆国,刘澳.基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现[J].*洛阳理工学院学报(自然科学版)*,2022,32(01):53-61+67.
-[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=LYGY202201010) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E7%81%B0%E5%BA%A6%E5%85%B1%E7%94%9F%E7%9F%A9%E9%98%B5%E7%9A%84%E5%9B%BE%E5%BD%A2%E7%BA%B9%E7%90%86%E6%A3%80%E6%B5%8B%E5%8F%8A%E7%84%8A%E6%8E%A5%E7%BC%BA%E9%99%B7%E7%9A%84SVM%E5%88%86%E7%B1%BB%E5%AE%9E%E7%8E%B0.pdf) [[🔥高被引、高下载论文]](/images/入选证书.png)
-</div>
-</div>
+[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=LYGY202201010) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E7%81%B0%E5%BA%A6%E5%85%B1%E7%94%9F%E7%9F%A9%E9%98%B5%E7%9A%84%E5%9B%BE%E5%BD%A2%E7%BA%B9%E7%90%86%E6%A3%80%E6%B5%8B%E5%8F%8A%E7%84%8A%E6%8E%A5%E7%BC%BA%E9%99%B7%E7%9A%84SVM%E5%88%86%E7%B1%BB%E5%AE%9E%E7%8E%B0.pdf) 
+
 
 -	**陈滔**,张庆国,何金波,周文竹.基于多算法融合的文本抄袭检测的特征提取算法研究[J].*湖北民族大学学报(自然科学版)*,2022,40(01):67-72.
 [[网页]](https://hbmdzk.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=94c8b466-eb49-4042-965a-777f33b4525a) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E7%9A%84%E6%96%87%E6%9C%AC%E6%8A%84%E8%A2%AD%E6%A3%80%E6%B5%8B%E7%9A%84%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6.pdf)
@@ -106,7 +104,7 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2022.11 - 未知*, 《武汉大学学报工学版》编辑部, **实习编辑**
+- *2022.11 - 2023.06*, 《武汉大学学报工学版》编辑部, **实习编辑**
 - *2021.05 - 2021.08*, 合肥小路数据信息技术有限公司,  **云计算工程师**
 
 ---
