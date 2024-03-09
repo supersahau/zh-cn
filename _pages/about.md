@@ -71,7 +71,7 @@ redirect_from:
 [[网页]](http://qikan.cqvip.com/Qikan/Article/Detail?id=7109509135) [[下载]](/pdf/基于改进粒子群优化的K-means聚类的焊接缺陷图像识别.pdf)
 
 -	**陈滔**,张庆国,刘澳.基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现[J].*洛阳理工学院学报(自然科学版)*,2022,32(01):53-61+67.
-[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=LYGY202201010) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E7%81%B0%E5%BA%A6%E5%85%B1%E7%94%9F%E7%9F%A9%E9%98%B5%E7%9A%84%E5%9B%BE%E5%BD%A2%E7%BA%B9%E7%90%86%E6%A3%80%E6%B5%8B%E5%8F%8A%E7%84%8A%E6%8E%A5%E7%BC%BA%E9%99%B7%E7%9A%84SVM%E5%88%86%E7%B1%BB%E5%AE%9E%E7%8E%B0.pdf) 
+[[网页]](http://dx.chinadoi.cn/10.3969/j.issn.1674-5043.2022.01.010) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E7%81%B0%E5%BA%A6%E5%85%B1%E7%94%9F%E7%9F%A9%E9%98%B5%E7%9A%84%E5%9B%BE%E5%BD%A2%E7%BA%B9%E7%90%86%E6%A3%80%E6%B5%8B%E5%8F%8A%E7%84%8A%E6%8E%A5%E7%BC%BA%E9%99%B7%E7%9A%84SVM%E5%88%86%E7%B1%BB%E5%AE%9E%E7%8E%B0.pdf) 
 
 
 -	**陈滔**,张庆国,何金波,周文竹.基于多算法融合的文本抄袭检测的特征提取算法研究[J].*湖北民族大学学报(自然科学版)*,2022,40(01):67-72.
