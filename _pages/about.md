@@ -40,7 +40,7 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 最新消息
-*[注释]: - *2024.06*: 🔥🔥我们的论文“DACBN: Dual attention convolutional broad network for fine-grained visual recognition”被Pattern Recognition录用.
+- *2024.06*: 🔥🔥我们的论文“DACBN: Dual attention convolutional broad network for fine-grained visual recognition”被Pattern Recognition录用 [[链接]](https://doi.org/10.1016/j.patcog.2024.110749).
 - *2024.03*: 🔥🔥我们的论文“带有Dropout结构的贝叶斯近似宽度学习系统”网络首发 [[链接]](https://link.cnki.net/urlid/44.1240.TP.20240229.1727.010).
 - *2023.04*: 🔥🔥本人（队长）所在团队荣获2022年山东省研究生“AI+”创新实践大赛二等奖 [[决赛通知]](https://www.qlu.edu.cn/2023/0329/c7989a220592/page.htm).
 
