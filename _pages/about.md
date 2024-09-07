@@ -40,9 +40,9 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 最新消息
+- *2024.09*: 🔥🔥我们的论文“Double-kernel based Bayesian approximation broad learning system with dropout”被Neurocomputing录用 [[链接]](https://doi.org/10.1016/j.neucom.2024.128533).
 - *2024.07*: 🔥🔥我们的汇报主题“带有Dropout结构的贝叶斯近似宽度学习系统”获青岛大学2024年夏季学期第三届研究生创新成果展优秀学术创新成果奖.
 - *2024.06*: 🔥🔥我们的论文“DACBN: Dual attention convolutional broad network for fine-grained visual recognition”被Pattern Recognition录用 [[链接]](https://doi.org/10.1016/j.patcog.2024.110749).
-- *2024.03*: 🔥🔥我们的论文“带有Dropout结构的贝叶斯近似宽度学习系统”网络首发 [[链接]](https://link.cnki.net/urlid/44.1240.TP.20240229.1727.010).
 
 <span class='anchor' id='-kyxm'></span>
 
@@ -55,13 +55,16 @@ redirect_from:
 
 ### 英文论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2024</div><img src='/images/PR2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2024</div><img src='/images/NeuD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--   **Chen T**, Wang L J, Yu H S, et al. DACBN: Dual attention convolutional broad network for fine-grained visual recognition[J]. *Pattern Recognition*, 2024, 156: 110749.
+-   **Chen T**, Wang L J, Liu Y, et al. Double-kernel based Bayesian approximation broad learning system with dropout[J]. *Neurocomputing*, 2024, 610: 128533.
+[[HTML]](https://doi.org/10.1016/j.neucom.2024.128533)
+</div>
+</div>
+
+-   **Chen T**, Wang L J, Liu Y, et al. DACBN: Dual attention convolutional broad network for fine-grained visual recognition[J]. *Pattern Recognition*, 2024, 156: 110749.
 [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005004)
-</div>
-</div>
 
 ### 中文论文
 ---
@@ -73,24 +76,6 @@ redirect_from:
 
 </div>
 </div>
-
--	**陈滔**.基于改进粒子群优化的K-means聚类的焊接缺陷图像识别[J].*遵义师范学院学报*,2023,25(02):85-88.
-[[网页]](http://qikan.cqvip.com/Qikan/Article/Detail?id=7109509135) [[下载]](/pdf/基于改进粒子群优化的K-means聚类的焊接缺陷图像识别.pdf)
-
--	**陈滔**,张庆国,刘澳.基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现[J].*洛阳理工学院学报(自然科学版)*,2022,32(01):53-61+67.
-[[网页]](http://dx.chinadoi.cn/10.3969/j.issn.1674-5043.2022.01.010) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E7%81%B0%E5%BA%A6%E5%85%B1%E7%94%9F%E7%9F%A9%E9%98%B5%E7%9A%84%E5%9B%BE%E5%BD%A2%E7%BA%B9%E7%90%86%E6%A3%80%E6%B5%8B%E5%8F%8A%E7%84%8A%E6%8E%A5%E7%BC%BA%E9%99%B7%E7%9A%84SVM%E5%88%86%E7%B1%BB%E5%AE%9E%E7%8E%B0.pdf) 
-
-
--	**陈滔**,张庆国,何金波,周文竹.基于多算法融合的文本抄袭检测的特征提取算法研究[J].*湖北民族大学学报(自然科学版)*,2022,40(01):67-72.
-[[网页]](https://hbmdzk.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=94c8b466-eb49-4042-965a-777f33b4525a) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E7%9A%84%E6%96%87%E6%9C%AC%E6%8A%84%E8%A2%AD%E6%A3%80%E6%B5%8B%E7%9A%84%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6.pdf)
-
-
--	陈祎琼,刘澳,范国华,毕家泽,**陈滔**.基于深度森林的CT图像结直肠息肉检测研究[J].*洛阳理工学院学报(自然科学版)*,2022,32(01):68-74.
-[[网页]](http://dx.chinadoi.cn/10.3969/j.issn.1674-5043.2022.01.012) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E6%A3%AE%E6%9E%97%E7%9A%84CT%E5%9B%BE%E5%83%8F%E7%BB%93%E7%9B%B4%E8%82%A0%E6%81%AF%E8%82%89%E6%A3%80%E6%B5%8B%E7%A0%94%E7%A9%B6.pdf)
-
--	王学梅,王凤文,**陈滔**,张庆国,蒋跃林.基于组合模型的PM_(2.5)浓度预测及其不确定性分析[J].*环境工程*,2020,38(08):229-235.(北大核心、CSCD扩展)
-[[网页]](http://hjgc.ic-mag.com/cn/article/doi/10.13205/j.hjgc.202008038) [[下载]](/pdf/%E5%9F%BA%E4%BA%8E%E7%BB%84%E5%90%88%E6%A8%A1%E5%9E%8B%E7%9A%84PM2.5_%E6%B5%93%E5%BA%A6%E9%A2%84%E6%B5%8B%E5%8F%8A%E5%85%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90.pdf)
-
 
 *[注释]: ### 专利著作
 *[注释]: ---
