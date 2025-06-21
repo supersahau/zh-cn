@@ -58,26 +58,16 @@ redirect_from:
 
 ### 英文论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2024</div><img src='/images/NeuD.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 -   **Chen T**, Wang L J, Liu Y, et al. Double-kernel based Bayesian approximation broad learning system with dropout[J]. *Neurocomputing*, 2024, 610: 128533.
-[[HTML]](https://doi.org/10.1016/j.neucom.2024.128533)
-</div>
-</div>
+[[链接]](https://doi.org/10.1016/j.neucom.2024.128533)
 
 -   **Chen T**, Wang L J, Liu Y, et al. DACBN: Dual attention convolutional broad network for fine-grained visual recognition[J]. *Pattern Recognition*, 2024, 156: 110749.
-[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005004)
+[[链接]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005004)
 
 ### 中文论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">控制理论与应用2024</div><img src='/images/dropout-bls2024.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 -	**陈滔**,王立杰,刘洋,徐丽莉,于海生.带有Dropout结构的贝叶斯近似宽度学习系统[J].*控制理论与应用*,2024,41(x):1-10.
-[[网页]](https://link.cnki.net/urlid/44.1240.TP.20240229.1727.010) 
-</div>
-</div>
+[[链接]](https://link.cnki.net/urlid/44.1240.TP.20240229.1727.010) 
 
 *[注释]: ### 专利著作
 *[注释]: ---
