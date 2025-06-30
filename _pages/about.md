@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本人现于华中科技大学人工智能与自动化学院智能科学与技术专业攻读博士学位<a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>.
+本人现于华中科技大学人工智能与自动化学院智能科学与技术专业攻读博士学位，师从李炜教授<a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>.
 
 我的研究兴趣包括
 - *宽度学习系统*
