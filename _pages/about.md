@@ -102,18 +102,15 @@ redirect_from:
 ---
 
 *[注释]: 🏭   新栏目图标
-  
-</div>
-</font>
 
 <script src="https://giscus.app/client.js"
-        data-repo="supersahau/supersahau.github.io"
+        data-repo="supersahau/zh-cn"
         data-repo-id="R_kgDOHjFR3A"
         data-category="Q&A"
         data-category-id="DIC_kwDOHjFR3M4CsW4q"
         data-mapping="pathname"
         data-strict="0"
-        data-reactions-enabled="1"
+        data-reactions-enabled="0"
         data-emit-metadata="0"
         data-input-position="bottom"
         data-theme="light"
@@ -121,3 +118,8 @@ redirect_from:
         crossorigin="anonymous"
         async>
 </script>
+
+  
+</div>
+</font>
+
