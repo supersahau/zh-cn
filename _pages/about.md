@@ -104,7 +104,7 @@ redirect_from:
 *[注释]: 🏭   新栏目图标
 
 <script src="https://giscus.app/client.js"
-        data-repo="supersahau/supersahau.github.io"
+        data-repo="supersahau/zh-cn"
         data-repo-id="R_kgDOHjFR3A"
         data-category="Q&A"
         data-category-id="DIC_kwDOHjFR3M4CsW4q"
