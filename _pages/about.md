@@ -58,6 +58,10 @@ redirect_from:
 
 ### 英文论文
 ---
+*[注释]: -  **Chen T**, Wang L J, C. L. Philip Chen. Sparse Bayesian broad learning system via adaptive lasso priors for robust regression[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2025,
+
+*[注释]: -  Wang Y J, Wang L J, **Chen T**. Broad learning system via adaptive maximum weighted correntropy[J]. *Neural Networks*, 2025,
+
 -   **Chen T**, Wang L J, Liu Y, et al. Double-kernel based Bayesian approximation broad learning system with dropout[J]. *Neurocomputing*, 2024, 610: 128533.
 [[链接]](https://doi.org/10.1016/j.neucom.2024.128533)
 
@@ -66,7 +70,7 @@ redirect_from:
 
 ### 中文论文
 ---
--	**陈滔**,王立杰,刘洋,徐丽莉,于海生.带有Dropout结构的贝叶斯近似宽度学习系统[J].*控制理论与应用*,2024,41(x):1-10.
+-	**陈滔**,王立杰,刘洋,等.带有Dropout结构的贝叶斯近似宽度学习系统[J].*控制理论与应用*,2024,41(x):1-10.
 [[链接]](https://link.cnki.net/urlid/44.1240.TP.20240229.1727.010) 
 
 *[注释]: ### 专利著作
