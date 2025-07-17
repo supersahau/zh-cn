@@ -40,9 +40,9 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 最新消息
-- *2024.10*: 🔥🔥获得研究生国家奖学金.
+- *2025.06*: 🔥🔥获评青岛大学2025年优秀硕士学位论文 [[获奖证书]](/images/qduyouxiuxueweilunwen.jpg).
+- *2024.10*: 🔥🔥获得研究生国家奖学金 [[获奖证书]](/images/guojiang.jpg).
 - *2024.09*: 🔥🔥我们的论文“Double-kernel based Bayesian approximation broad learning system with dropout”被Neurocomputing录用 [[链接]](https://doi.org/10.1016/j.neucom.2024.128533).
-- *2024.07*: 🔥🔥我们的汇报主题“带有Dropout结构的贝叶斯近似宽度学习系统”获青岛大学2024年夏季学期第三届研究生创新成果展优秀学术创新成果奖.
 
 <span class='anchor' id='-kyxm'></span>
 
@@ -80,8 +80,8 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 📖 荣誉奖项
-- *2024年* 获得 研究生国家奖学金（硕士）.
-- *2024年* 获得 青岛大学2024年夏季学期第三届研究生创新成果展**优秀学术创新成果奖**.
+- *2025年* 获得 青岛大学优秀硕士学位论文 [[获奖证书]](/images/qduyouxiuxueweilunwen.jpg).
+- *2024年* 获得 研究生国家奖学金（硕士）[[获奖证书]](/images/guojiang.jpg)、青岛大学2024年夏季学期第三届研究生创新成果展**优秀学术创新成果奖**等.
 - *2022年* 获得 山东省研究生“AI+"创新实践大赛**二等奖**.
 - *2020年* 获得 第十八届“SuperMap"杯GIS大赛**二等奖**、第十届全国大学生市场调查与分析大赛**三等奖**及安徽赛区**一等奖**、安徽省计算机博弈大赛**一等奖**等.
 - *2019年* 获得 第九届全国大学生市场调查与分析大赛**三等奖**及安徽赛区**一等奖**、安徽省大学生统计建模大赛研究生组**三等奖**等.
