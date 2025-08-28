@@ -40,9 +40,9 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 最新消息
+- *2025.08*: 🔥🔥我们的论文“Broad learning system via adaptive maximum weighted correntropy”被Neural Networks录用 [[链接]]](https://doi.org/10.1016/j.neunet.2025.108032).
 - *2025.06*: 🔥🔥获评青岛大学2025年优秀硕士学位论文 [[获奖证书]](/images/qduyouxiuxueweilunwen.jpg).
 - *2024.10*: 🔥🔥获得研究生国家奖学金 [[获奖证书]](/images/guojiang.jpg).
-- *2024.09*: 🔥🔥我们的论文“Double-kernel based Bayesian approximation broad learning system with dropout”被Neurocomputing录用 [[链接]](https://doi.org/10.1016/j.neucom.2024.128533).
 
 <span class='anchor' id='-kyxm'></span>
 
@@ -60,13 +60,13 @@ redirect_from:
 ---
 *[注释]: -  **Chen T**, Wang L J, C. L. Philip Chen. Sparse Bayesian broad learning system via adaptive lasso priors for robust regression[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2025,
 
-*[注释]: -  Wang Y J, Wang L J, **Chen T**. Broad learning system via adaptive maximum weighted correntropy[J]. *Neural Networks*, 2025,
-
 -   **Chen T**, Wang L J, Liu Y, et al. Double-kernel based Bayesian approximation broad learning system with dropout[J]. *Neurocomputing*, 2024, 610: 128533.
 [[链接]](https://doi.org/10.1016/j.neucom.2024.128533)
 
 -   **Chen T**, Wang L J, Liu Y, et al. DACBN: Dual attention convolutional broad network for fine-grained visual recognition[J]. *Pattern Recognition*, 2024, 156: 110749.
 [[链接]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005004)
+
+*[注释]: -  Wang Y J, Wang L J, **Chen T**. Broad learning system via adaptive maximum weighted correntropy[J]. *Neural Networks*, 2025, 108032. [[链接]]](https://doi.org/10.1016/j.neunet.2025.108032)
 
 ### 中文论文
 ---
