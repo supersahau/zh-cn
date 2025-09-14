@@ -89,7 +89,7 @@ redirect_from:
   
 <span class='anchor' id='-xshy'></span>
 
-# 💬️ 论坛会议
+# 🏭 论坛会议
 - *2024.07*, 青岛大学2024年夏季学期第三届研究生创新成果展, 青岛.
 - *2024.05*, 第八届中国系统科学大会, 芜湖.
 - *2023.05*, 青岛大学“求实创新, 研学笃行”2023年度研究生学术沙龙, 青岛. [[通知]](https://mp.weixin.qq.com/s/iDcZ8NttA1ifqcynNizpSg)
@@ -102,8 +102,8 @@ redirect_from:
 
 ---
 
-*[注释]: 🏭   新栏目图标
-
+<span class='anchor' id='-xxly'></span>
+# 💬️ 消息留言
 <script src="https://giscus.app/client.js"
         data-repo="supersahau/zh-cn"
         data-repo-id="R_kgDOHjFR3A"
