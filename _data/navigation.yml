@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "简介"
+  - title: "个人简介"
     url: "/zh-cn/#about-me"
 
   - title: "学历学位"
@@ -23,3 +23,6 @@ main:
 
   - title: "工作实习"
     url: "/zh-cn/#-gzsx"
+
+  - title: "消息留言"
+    url: "/zh-cn/#-xxly"
