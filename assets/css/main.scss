@@ -40,6 +40,13 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* 添加全局字体设置：中文楷体，英文 Times New Roman */
+body {
+    font-family: "KaiTi", "楷体", "STKaiti", "华文楷体", 
+                 "Times New Roman", Times, 
+                 serif;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -106,4 +113,5 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+
 }
