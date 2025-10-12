@@ -44,8 +44,12 @@ body,
 
 /* 覆盖所有头部和导航元素 */
 .masthead,         
-.masthead__title,  
-.nav__list-item a, 
+.masthead__title, 
+.nav__list-item a {
+    font-family: "Times New Roman", Times, 
+                 "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
+                 serif !important;
+}
 
 /* 覆盖所有主要内容和标题 */
 .page__content,
@@ -133,6 +137,7 @@ h1:before, .anchor:before {
     font-size: .8em;
 
 }
+
 
 
 
