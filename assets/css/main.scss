@@ -39,22 +39,38 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-/* 强制覆盖所有字体设置，包括标题栏、导航和页脚 */
-body,
-.masthead,         
-.masthead__title,  
-.nav__list-item a, 
-.page__content,
-.page__content p, 
-.page__content li, 
-.page__content h1, 
-.page__content h2, 
-.page__content h3,
-.page__footer      
-{
+/* 强制覆盖标题栏、导航链接和网站标题的字体 */
+
+/* 1. 强制覆盖所有标题 H1-H6 */
+h1, h2, h3, h4, h5, h6 {
     font-family: "Times New Roman", Times, 
                  "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
-                 serif !important; /* 强制生效 */
+                 serif !important;
+}
+
+/* 2. 强制覆盖导航链接、网站标题 */
+.masthead__title, 
+.nav__list-item a {
+    font-family: "Times New Roman", Times, 
+                 "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
+                 serif !important;
+}
+
+/* 3. 确保网站顶部的“CT-Secret-future”也生效 */
+.masthead__menu-item a {
+    font-family: "Times New Roman", Times, 
+                 "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
+                 serif !important;
+}
+
+
+/* 4. 确保所有正文内容和列表项的字体正确（防止被标题规则覆盖）*/
+body,
+.page__content p, 
+.page__content li {
+    font-family: "Times New Roman", Times, 
+                 "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
+                 serif !important; 
 }
 .paper-box {
     display: flex;
@@ -124,6 +140,7 @@ h1:before, .anchor:before {
     font-size: .8em;
 
 }
+
 
 
 
