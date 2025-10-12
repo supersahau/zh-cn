@@ -152,6 +152,35 @@ h1:before, .anchor:before {
 
 }
 
+/* 专为移动设备（小于 768px 宽度）设计的字体优先级覆盖 */
+@media screen and (max-width: 768px) {
+    /* 重新应用字体栈，以确保 CJK 字体在 mobile media query 中胜出 */
+    body,
+    .page__content,
+    .page__content p, 
+    .page__content li, 
+    h1, h2, h3, h4, h5, h6, 
+    .masthead,         
+    .masthead__title,  
+    .nav__list-item a, 
+    .sidebar,         
+    .author__content, 
+    .page__footer,
+    .footer_site,
+    .footer_copyright,
+    .footer_site span 
+    {
+        /* 保持 Times New Roman 优先，但再次列出楷体，优先级极高 */
+        font-family: "Times New Roman", Times, 
+                     "KaiTi", "楷体", "STKaiti", "华文楷体", "DFKaiShu-SB", 
+                     serif !important; 
+        
+        /* 确保字体大小也正确应用 */
+        font-size: 1.1em !important; 
+    }
+}
+
+
 
 
 
