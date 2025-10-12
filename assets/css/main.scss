@@ -39,31 +39,46 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-/* 强制覆盖所有字体设置，包括最顽固的页脚和侧边栏内容 */
-body,
+/* 最终全局字体设置： Times New Roman 优先，楷体辅助 */
 
-/* 覆盖所有头部和导航元素 */
-.masthead,         
-.masthead__title, 
-.nav__list-item a,
-.masthead__menu-item a,
-/* 覆盖所有主要内容和标题 */
+/* 定义一个变量来存储您的字体栈，方便管理 */
+$custom-font-stack: "Times New Roman", Times, 
+                     "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
+                     serif !important; 
+
+/* 默认将字体应用到所有元素，但排除图标 */
+body,
 .page__content,
 .page__content p, 
 .page__content li, 
 h1, h2, h3, h4, h5, h6, 
-
-/* 针对侧边栏使用通配符，覆盖内部所有元素 */
-.sidebar *,
-
-/* 针对底部版权信息和访问量计数器 */
+.masthead,         
+.masthead__title,  
+.nav__list-item a, 
+.masthead__menu-item a,
+.sidebar,         
+.author__content, 
+.page__footer,
 .footer_site,
 .footer_copyright,
 .footer_site span 
 {
-    font-family: "Times New Roman", Times, 
-                 "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
-                 serif !important; 
+    font-family: $custom-font-stack; 
+}
+
+/* 显式重置 Font Awesome 图标的字体为默认（或者 Font Awesome 自己的字体） */
+.fa, .fas, .far, .fal, .fab { /* Font Awesome 5 的类 */
+    font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands', 'Font Awesome 5 Solid', FontAwesome, sans-serif !important;
+}
+
+/* 对于 Minimal Mistakes 主题中其他可能使用的图标类，如果存在 */
+.fas, .fab, .far, .fal, .svg-inline--fa { /* 确保 SVG 图标也使用正确字体 */
+  font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands', 'Font Awesome 5 Solid', FontAwesome, sans-serif !important;
+}
+
+/* 侧边栏的图标，如果被特定类包裹，可能也需要重置 */
+.sidebar .fa, .sidebar .fab, .sidebar .fas {
+    font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands', 'Font Awesome 5 Solid', FontAwesome, sans-serif !important;
 }
 .paper-box {
     display: flex;
@@ -133,6 +148,7 @@ h1:before, .anchor:before {
     font-size: .8em;
 
 }
+
 
 
 
