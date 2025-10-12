@@ -39,18 +39,23 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* 确保页面的所有区域（包括标题栏和导航）都使用这个双语字体规则 */
 body,
-.page__content, 
+.masthead,         /* 针对顶部的导航区域 */
+.masthead__title,  /* 针对网站标题（例如 "Chen Tao"） */
+.nav__list-item a, /* 针对导航链接文字 */
+.page__content,
 .page__content p, 
 .page__content li, 
 .page__content h1, 
 .page__content h2, 
-.page__content h3 {
-    /* 1. Times New Roman 优先用于英文和数字（拉丁字符） */
+.page__content h3,
+.page__footer      /* 针对页脚区域 */
+{
     font-family: "Times New Roman", Times, 
-                 /* 2. 楷体用于中文（仅在 Times New Roman 找不到字符时生效）*/
                  "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
-                 serif; /* 通用衬线字体回退 */
+                 serif;
+    /* 如果您之前使用 !important 解决了主内容区的问题，这里也需要加上它 */
 }
 .paper-box {
     display: flex;
@@ -120,6 +125,7 @@ h1:before, .anchor:before {
     font-size: .8em;
 
 }
+
 
 
 
