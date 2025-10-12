@@ -39,17 +39,14 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* 最终全局字体设置： Times New Roman 优先，楷体辅助 */
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap');
-
-/* 2. 定义新的字体栈：Web Font 优先，确保中文有衬线字体 */
+/* 定义一个变量来存储您的字体栈，方便管理 */
 $custom-font-stack: "Times New Roman", Times, 
-                     "Noto Serif SC", /* Web Font 优先 */
-                     "KaiTi", "楷体", "STKaiti", "华文楷体", "DFKaiShu-SB", 
+                     "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
                      serif !important; 
 
-/* 3. 应用新的字体栈到所有元素 */
-/* 使用您之前辛苦确定的所有高优先级选择器列表 */
+/* 默认将字体应用到所有元素，但排除图标 */
 body,
 .page__content,
 .page__content p, 
@@ -58,7 +55,8 @@ h1, h2, h3, h4, h5, h6,
 .masthead,         
 .masthead__title,  
 .nav__list-item a, 
-.sidebar,         
+.masthead__menu-item a,
+.sidebar *,         
 .author__content, 
 .page__footer,
 .footer_site,
@@ -152,6 +150,7 @@ h1:before, .anchor:before {
     font-size: .8em;
 
 }
+
 
 
 
