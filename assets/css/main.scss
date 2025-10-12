@@ -39,7 +39,19 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
+body,
+.page__content, 
+.page__content p, 
+.page__content li, 
+.page__content h1, 
+.page__content h2, 
+.page__content h3 {
+    /* 1. Times New Roman 优先用于英文和数字（拉丁字符） */
+    font-family: "Times New Roman", Times, 
+                 /* 2. 楷体用于中文（仅在 Times New Roman 找不到字符时生效）*/
+                 "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
+                 serif; /* 通用衬线字体回退 */
+}
 .paper-box {
     display: flex;
     justify-content: left;
@@ -108,5 +120,6 @@ h1:before, .anchor:before {
     font-size: .8em;
 
 }
+
 
 
