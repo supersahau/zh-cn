@@ -39,14 +39,17 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-/* 最终全局字体设置： Times New Roman 优先，楷体辅助 */
 
-/* 定义一个变量来存储您的字体栈，方便管理 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap');
+
+/* 2. 定义新的字体栈：Web Font 优先，确保中文有衬线字体 */
 $custom-font-stack: "Times New Roman", Times, 
-                     "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
+                     "Noto Serif SC", /* Web Font 优先 */
+                     "KaiTi", "楷体", "STKaiti", "华文楷体", "DFKaiShu-SB", 
                      serif !important; 
 
-/* 默认将字体应用到所有元素，但排除图标 */
+/* 3. 应用新的字体栈到所有元素 */
+/* 使用您之前辛苦确定的所有高优先级选择器列表 */
 body,
 .page__content,
 .page__content p, 
@@ -55,8 +58,7 @@ h1, h2, h3, h4, h5, h6,
 .masthead,         
 .masthead__title,  
 .nav__list-item a, 
-.masthead__menu-item a,
-.sidebar *,         
+.sidebar,         
 .author__content, 
 .page__footer,
 .footer_site,
@@ -66,7 +68,6 @@ h1, h2, h3, h4, h5, h6,
     font-family: $custom-font-stack; 
     font-size: 1.02em !important; 
 }
-
 /* 显式重置所有图标集（Font Awesome 和 Academicons）的字体 */
 
 /* 1. 重置 Font Awesome 图标 */
@@ -150,31 +151,6 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 
-}
-
-/* 专为 iOS 设备设计的字体优先级覆盖 (解决移动端楷体不生效问题) */
-@media screen and (max-width: 768px) {
-    /* 1. 针对所有文本元素 */
-    body,
-    .sidebar *,
-    .page__content p, 
-    .page__content li, 
-    .masthead__title,
-    .nav__list-item a,
-    .footer_site span 
-    {
-        /* 仅保留最主要的 Times New Roman 和 iOS 平台最认可的楷体名称 */
-        font-family: "Times New Roman", Times, 
-                     "KaiTi", "楷体", "STKaiti", 
-                     serif !important; 
-    }
-    
-    /* 2. 针对标题元素，确保它们也生效 */
-    h1, h2, h3, h4, h5, h6 {
-        font-family: "Times New Roman", Times, 
-                     "KaiTi", "楷体", "STKaiti", 
-                     serif !important; 
-    }
 }
 
 
