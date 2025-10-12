@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6,
 .masthead__title,  
 .nav__list-item a, 
 .masthead__menu-item a,
-.sidebar,         
+.sidebar *,         
 .author__content, 
 .page__footer,
 .footer_site,
@@ -148,6 +148,7 @@ h1:before, .anchor:before {
     font-size: .8em;
 
 }
+
 
 
 
