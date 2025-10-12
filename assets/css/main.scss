@@ -39,35 +39,28 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-/* 强制覆盖标题栏、导航链接和网站标题的字体 */
-
-/* 1. 强制覆盖所有标题 H1-H6 */
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Times New Roman", Times, 
-                 "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
-                 serif !important;
-}
-
-/* 2. 强制覆盖导航链接、网站标题 */
-.masthead__title, 
-.nav__list-item a {
-    font-family: "Times New Roman", Times, 
-                 "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
-                 serif !important;
-}
-
-/* 3. 确保网站顶部的“CT-Secret-future”也生效 */
-.masthead__menu-item a {
-    font-family: "Times New Roman", Times, 
-                 "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
-                 serif !important;
-}
-
-
-/* 4. 确保所有正文内容和列表项的字体正确（防止被标题规则覆盖）*/
+/* 强制覆盖所有字体设置，包括最顽固的页脚和侧边栏内容 */
 body,
+
+/* 覆盖所有头部和导航元素 */
+.masthead,         
+.masthead__title,  
+.nav__list-item a, 
+
+/* 覆盖所有主要内容和标题 */
+.page__content,
 .page__content p, 
-.page__content li {
+.page__content li, 
+h1, h2, h3, h4, h5, h6, 
+
+/* 针对侧边栏使用通配符，覆盖内部所有元素 */
+.sidebar *,
+
+/* 针对底部版权信息和访问量计数器 */
+.footer_site,
+.footer_copyright,
+.footer_site span 
+{
     font-family: "Times New Roman", Times, 
                  "KaiTi", "楷体", "STKaiti", "华文楷体", DFKaiShu-SB, 
                  serif !important; 
@@ -140,6 +133,7 @@ h1:before, .anchor:before {
     font-size: .8em;
 
 }
+
 
 
 
