@@ -66,19 +66,21 @@ h1, h2, h3, h4, h5, h6,
     font-family: $custom-font-stack; 
 }
 
-/* 显式重置 Font Awesome 图标的字体为默认（或者 Font Awesome 自己的字体） */
-.fa, .fas, .far, .fal, .fab { /* Font Awesome 5 的类 */
+/* 显式重置所有图标集（Font Awesome 和 Academicons）的字体 */
+
+/* 1. 重置 Font Awesome 图标 */
+.fa, .fas, .far, .fal, .fab, .svg-inline--fa { 
     font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands', 'Font Awesome 5 Solid', FontAwesome, sans-serif !important;
 }
 
-/* 对于 Minimal Mistakes 主题中其他可能使用的图标类，如果存在 */
-.fas, .fab, .far, .fal, .svg-inline--fa { /* 确保 SVG 图标也使用正确字体 */
-  font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands', 'Font Awesome 5 Solid', FontAwesome, sans-serif !important;
+/* 2. 重置 Academicons 图标 (解决 Web of Science 和 ORCID 图标消失的问题) */
+.ai, .ai-fw, .ai-pubmed-square, .ai-clarivate, .ai-orcid-square, .ai-dblp {
+    font-family: "Academicons" !important;
 }
 
-/* 侧边栏的图标，如果被特定类包裹，可能也需要重置 */
-.sidebar .fa, .sidebar .fab, .sidebar .fas {
-    font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands', 'Font Awesome 5 Solid', FontAwesome, sans-serif !important;
+/* 3. 确保侧边栏内的所有图标都被正确重置 */
+.sidebar .fa, .sidebar .fab, .sidebar .fas, .sidebar .ai {
+    font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands', 'Font Awesome 5 Solid', FontAwesome, Academicons, sans-serif !important;
 }
 .paper-box {
     display: flex;
@@ -148,6 +150,7 @@ h1:before, .anchor:before {
     font-size: .8em;
 
 }
+
 
 
 
