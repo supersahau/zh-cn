@@ -32,6 +32,7 @@ author:
   researchgate     : 
   uri              : 
   wos              : "LEL-8962-2024"
+  scop             : "59208226300"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -162,5 +163,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
