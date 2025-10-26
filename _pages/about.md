@@ -56,6 +56,8 @@ redirect_from:
 ---
 - 即将上线。
 
+*[注释]: -  **陈滔**. 基于稀疏贝叶斯宽度学习系统的回归预测方法研究[D]. 青岛: *青岛大学*, 2025.
+
 ### 英文论文
 ---
 *[注释]: -  **Chen T**, Wang L J <sup><svg focusable="false" viewBox="0 0 102 128" height="20" title="Author email or social media contact details icon" class="icon icon-envelope react-xocs-author-icon u-fill-grey8"><path d="M55.8 57.2c-1.78 1.31-5.14 1.31-6.9 0L17.58 34h69.54L55.8 57.19zM0 32.42l42.94 32.62c2.64 1.95 6.02 2.93 9.4 2.93s6.78-.98 9.42-2.93L102 34.34V24H0zM92 88.9L73.94 66.16l-8.04 5.95L83.28 94H18.74l18.38-23.12-8.04-5.96L10 88.94V51.36L0 42.9V104h102V44.82l-10 8.46V88.9"></path></svg></sup>, C. L. Philip Chen. Sparse Bayesian broad learning system via adaptive lasso priors for robust regression[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2025,
