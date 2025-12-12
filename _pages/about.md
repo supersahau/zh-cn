@@ -39,7 +39,7 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 最新消息
-- *2025.00*: 🔥🔥我们的论文“Sparse Bayesian Broad Learning System via Adaptive Lasso Priors for Robust Regression”被IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS录用 [[链接]](https://doi.org/10.1109/TNNLS.2025.3630247).
+- *2025.11*: 🔥🔥我们的论文“Sparse Bayesian Broad Learning System via Adaptive Lasso Priors for Robust Regression”被IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS录用 [[链接]](https://doi.org/10.1109/TNNLS.2025.3630247).
 - *2025.06*: 🔥🔥获评青岛大学2025年优秀硕士学位论文 [[获奖证书]](/images/qduyouxiuxueweilunwen.jpg).
 - *2024.10*: 🔥🔥获得研究生国家奖学金 [[获奖证书]](/images/guojiang.jpg).
 
