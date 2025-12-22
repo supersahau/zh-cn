@@ -32,7 +32,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本人现于华中科技大学人工智能与自动化学院智能科学与技术专业攻读博士学位，师从李炜教授。<a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a><a href='https://www.scopus.com/authid/detail.uri?authorId=59208226300'>
+本人现于华中科技大学人工智能与自动化学院智能科学与技术专业攻读博士学位，师从李炜教授。<a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ gs_url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a><a href='https://www.scopus.com/authid/detail.uri?authorId=59208226300'>
   <img src="https://img.shields.io/endpoint?url={{ scopus_url | url_encode }}&logo=scopus&labelColor=f6f6f6&color=orange&style=flat&label=Scopus引用">
 </a>
 
