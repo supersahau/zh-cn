@@ -8,17 +8,34 @@ redirect_from:
   - /about.html
 ---
 
+{% comment %} 
+  自动判断使用 CDN 还是 Raw 链接 
+  注意：这里的 @google-scholar-stats 是因为你的 YML 把数据推到了这个特定分支
+{% endcomment %}
+
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+  {% assign base_path = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@google-scholar-stats/" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+  {% assign base_path = "https://raw.githubusercontent.com/" | append: site.repository | append: "/google-scholar-stats/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+{% comment %} 
+  注意：
+  1. 你的 YML 脚本里，git init 是在 results 文件夹内部执行的。
+  2. 这意味着推送到分支后，json 文件是在根目录的，而不是在 results/ 目录下。
+  3. 所以这里不需要再加 "results/" 前缀。
+{% endcomment %}
+
+{% assign gs_url = base_path | append: "gs_data_shieldsio.json" %}
+{% assign scopus_url = base_path | append: "scopus_data_shieldsio.json" %}
 <div class='paper-box-text' markdown="1">
 
 <span class='anchor' id='about-me'></span>
 
-本人现于华中科技大学人工智能与自动化学院智能科学与技术专业攻读博士学位，师从李炜教授。<a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
+本人现于华中科技大学人工智能与自动化学院智能科学与技术专业攻读博士学位，师从李炜教授。<a href='https://scholar.google.com/citations?user=pj7fXtgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a><a href='https://www.scopus.com/authid/detail.uri?authorId=59208226300'>
+  <img src="https://img.shields.io/endpoint?url={{ scopus_url | url_encode }}&logo=scopus&labelColor=f6f6f6&color=orange&style=flat&label=Scopus引用">
+</a>
+
 
 我的研究兴趣包括
 - *宽度学习系统*
