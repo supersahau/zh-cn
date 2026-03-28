@@ -56,9 +56,9 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 最新消息
+- *2026.03*: 🔥🔥我们的论文“Maximum total correntropy-based broad learning system with robust M-estimator”被Neural Networks录用 [[链接]]().
 - *2025.11*: 🔥🔥我们的论文“Sparse Bayesian Broad Learning System via Adaptive Lasso Priors for Robust Regression”被IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS录用 [[链接]](https://doi.org/10.1109/TNNLS.2025.3630247).
 - *2025.06*: 🔥🔥获评青岛大学2025年优秀硕士学位论文 [[获奖证书]](/images/qduyouxiuxueweilunwen.jpg).
-- *2024.10*: 🔥🔥获得研究生国家奖学金 [[获奖证书]](/images/guojiang.jpg).
 
 <span class='anchor' id='-kyxm'></span>
 
@@ -74,6 +74,8 @@ redirect_from:
 
 ### 英文论文
 ---
+- **Chen T**, Chen X, Li W <sup><svg focusable="false" viewBox="0 0 102 128" height="20" title="Author email or social media contact details icon" class="icon icon-envelope react-xocs-author-icon u-fill-grey8"><path d="M55.8 57.2c-1.78 1.31-5.14 1.31-6.9 0L17.58 34h69.54L55.8 57.19zM0 32.42l42.94 32.62c2.64 1.95 6.02 2.93 9.4 2.93s6.78-.98 9.42-2.93L102 34.34V24H0zM92 88.9L73.94 66.16l-8.04 5.95L83.28 94H18.74l18.38-23.12-8.04-5.96L10 88.94V51.36L0 42.9V104h102V44.82l-10 8.46V88.9"></path></svg></sup>. Maximum total correntropy-based broad learning system with robust M-estimator[J]. *Neural Netw.*, 2026, xx: xxxx. [[HTML]]()
+  
 -  **Chen T**, Wang L J <sup><svg focusable="false" viewBox="0 0 102 128" height="20" title="Author email or social media contact details icon" class="icon icon-envelope react-xocs-author-icon u-fill-grey8"><path d="M55.8 57.2c-1.78 1.31-5.14 1.31-6.9 0L17.58 34h69.54L55.8 57.19zM0 32.42l42.94 32.62c2.64 1.95 6.02 2.93 9.4 2.93s6.78-.98 9.42-2.93L102 34.34V24H0zM92 88.9L73.94 66.16l-8.04 5.95L83.28 94H18.74l18.38-23.12-8.04-5.96L10 88.94V51.36L0 42.9V104h102V44.82l-10 8.46V88.9"></path></svg></sup>, C. L. Philip Chen. Sparse Bayesian broad learning system via adaptive lasso priors for robust regression[J]. *IEEE Trans. Neural Netw. Learn. Syst.*, 2025, Early Access. [[链接]](https://doi.org/10.1109/TNNLS.2025.3630247)
 
 -   **Chen T**, Wang L J <sup><svg focusable="false" viewBox="0 0 102 128" height="20" title="Author email or social media contact details icon" class="icon icon-envelope react-xocs-author-icon u-fill-grey8"><path d="M55.8 57.2c-1.78 1.31-5.14 1.31-6.9 0L17.58 34h69.54L55.8 57.19zM0 32.42l42.94 32.62c2.64 1.95 6.02 2.93 9.4 2.93s6.78-.98 9.42-2.93L102 34.34V24H0zM92 88.9L73.94 66.16l-8.04 5.95L83.28 94H18.74l18.38-23.12-8.04-5.96L10 88.94V51.36L0 42.9V104h102V44.82l-10 8.46V88.9"></path></svg></sup>, Liu Y, et al. Double-kernel based Bayesian approximation broad learning system with dropout[J]. *Neurocomputing*, 2024, 610: 128533.
