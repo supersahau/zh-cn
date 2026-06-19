@@ -136,6 +136,6 @@ redirect_from:
         crossorigin="anonymous"
         async>
 </script>
-  <div class='paper-box'><img src='/images/wxgzh.png' alt="sym" width="75%"></div>
+  <div class='paper-box'><img src='/images/wxgzh.png' alt="sym" width="60%"></div>
 </div>
 
