@@ -70,7 +70,7 @@ redirect_from:
 # 📝 学术著作
 ### 学位论文
 ---
--  **陈滔**. 基于稀疏贝叶斯宽度学习系统的回归预测方法研究[D]. 青岛: *青岛大学*, 2025. [[链接]](https://kns.cnki.net/kcms2/article/abstract?v=ZBmzy5eCHca5gFH7bvCSIohm5jtvbeEssetopRE781cHD9s0thglqpX5pGQQABJIW0z98mAN0NnvxcTHUCdohOgEViva6B8IcHbbl3MwnMEQ0BqONSs-YiGvEeMjC4HOtZzGDIFofn9s_nPFW6-LzYfYEuN6SHxaCsEzbP0wTOGgXgHjhwH44A==&uniplatform=NZKPT&language=CHS)
+-  **陈滔**. 基于稀疏贝叶斯宽度学习系统的回归预测方法研究[D]. 青岛: *青岛大学*, 2025. [[链接]](https://doi.org/10.27262/d.cnki.gqdau.2025.000935)
 
 ### 英文论文
 ---
