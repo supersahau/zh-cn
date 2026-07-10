@@ -1,4 +1,4 @@
----
+<img width="2880" height="1542" alt="image" src="https://github.com/user-attachments/assets/d0bc42d6-2e40-4eda-b811-f679b83be446" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -107,9 +107,7 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏭 论坛会议
-- *2024.07*, 青岛大学2024年夏季学期第三届研究生创新成果展, 青岛.
-- *2024.05*, 第八届中国系统科学大会, 芜湖.
-- *2023.05*, 青岛大学“求实创新, 研学笃行”2023年度研究生学术沙龙, 青岛. [[通知]](https://mp.weixin.qq.com/s/iDcZ8NttA1ifqcynNizpSg)
+- *2026.05*  第41届中国自动化学会青年学术年会(YAC 2026), 长沙.
 
 <span class='anchor' id='-gzsx'></span>
 
