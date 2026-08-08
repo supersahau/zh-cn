@@ -88,7 +88,12 @@ redirect_from:
 
 ### 中文论文
 ---
--	**陈滔**, 王立杰 <sup><svg focusable="false" viewBox="0 0 102 128" height="20" title="Author email or social media contact details icon" class="icon icon-envelope react-xocs-author-icon u-fill-grey8"><path d="M55.8 57.2c-1.78 1.31-5.14 1.31-6.9 0L17.58 34h69.54L55.8 57.19zM0 32.42l42.94 32.62c2.64 1.95 6.02 2.93 9.4 2.93s6.78-.98 9.42-2.93L102 34.34V24H0zM92 88.9L73.94 66.16l-8.04 5.95L83.28 94H18.74l18.38-23.12-8.04-5.96L10 88.94V51.36L0 42.9V104h102V44.82l-10 8.46V88.9"></path></svg></sup>, 刘洋, 等. 带有Dropout结构的贝叶斯近似宽度学习系统[J]. *控制理论与应用*, 2025, 42(8): 1632-1640. [[链接]](https://dx.doi.org/10.7641/CTA.2024.30087) 
+-	**陈滔**, 王立杰 <sup><svg focusable="false" viewBox="0 0 102 128" height="20" title="Author email or social media contact details icon" class="icon icon-envelope react-xocs-author-icon u-fill-grey8"><path d="M55.8 57.2c-1.78 1.31-5.14 1.31-6.9 0L17.58 34h69.54L55.8 57.19zM0 32.42l42.94 32.62c2.64 1.95 6.02 2.93 9.4 2.93s6.78-.98 9.42-2.93L102 34.34V24H0zM92 88.9L73.94 66.16l-8.04 5.95L83.28 94H18.74l18.38-23.12-8.04-5.96L10 88.94V51.36L0 42.9V104h102V44.82l-10 8.46V88.9"></path></svg></sup>, 刘洋, 等. 带有Dropout结构的贝叶斯近似宽度学习系统[J]. *控制理论与应用*, 2025, 42(8): 1632-1640. [[链接]](https://dx.doi.org/10.7641/CTA.2024.30087)
+
+### 会议论文
+---
+- **Chen T**, Chen X, Li W <sup><svg focusable="false" viewBox="0 0 102 128" height="20" title="Author email or social media contact details icon" class="icon icon-envelope react-xocs-author-icon u-fill-grey8"><path d="M55.8 57.2c-1.78 1.31-5.14 1.31-6.9 0L17.58 34h69.54L55.8 57.19zM0 32.42l42.94 32.62c2.64 1.95 6.02 2.93 9.4 2.93s6.78-.98 9.42-2.93L102 34.34V24H0zM92 88.9L73.94 66.16l-8.04 5.95L83.28 94H18.74l18.38-23.12-8.04-5.96L10 88.94V51.36L0 42.9V104h102V44.82l-10 8.46V88.9"></path></svg></sup>. A novel quaternion broad learning system for 3D/4D time series forecasting[J]. *2026 41st Youth Academic Annual Conference of Chinese Association of Automation (YAC)*, Changsha, China: IEEE, 2026: 1052-1056. [[链接]](https://doi.org/10.1109/YAC71005.2026.11616136) [[Bib]](/images/nqbls.bib)
+
 
 *[注释]: ### 专利著作
 *[注释]: ---
@@ -107,7 +112,7 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏭 论坛会议
-- *2026.05*  第41届中国自动化学会青年学术年会(YAC 2026), 长沙.
+- *2026.05*  第41届中国自动化学会青年学术年会(YAC 2026), 长沙. [[‌链接]](https://doi.org/10.1109/YAC71005.2026.11616136)
 
 <span class='anchor' id='-gzsx'></span>
 
